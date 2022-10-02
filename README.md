@@ -7,9 +7,8 @@
 - 💞️ I’m looking to collaborate on **Drupal Modules and Themes**
 - 📫 find me at my social networks:
   - **Facebook**: @FernandoDelSanto
-  - **Twitte**r: @nobodyalsoexists
   - **Instagram**: @malaondagratis
- - **My Website on Pop Clture**: https://ouroboros.world
+ - **My Website on Pop Culture**: https://ouroboros.world
 
 <!---
 diegosebastiangutierrez/diegosebastiangutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
