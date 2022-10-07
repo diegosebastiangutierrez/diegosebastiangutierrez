@@ -1,7 +1,7 @@
 # Diego Sebastián Gutiérrez
 ## Senior Drupal Developer
 
-### [CONTACT INFO](#)
+### [CONTACT INFO]
 #### [corazondigital@gmail.com](mailto:corazondigital@gmail.com) - [\+54911-34929665](tel:54911-34929665)
 
 ## Profile
