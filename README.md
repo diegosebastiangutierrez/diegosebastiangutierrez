@@ -43,24 +43,22 @@ After that period, things got a bit aggitated and I started working as a Freelan
 
 ### Drupal programming
 
-If you need a Theme or a Module for your site in Drupal, just imagine what you need it to do and then bring me the idea. Be it an application for **Facebook** , **Twitter** , a Webservice, something related to **YouTube** , whatever, I CAN DO IT.
+If you need a Theme or a Module for your site in Drupal, just imagine what you need it to do and then bring me the idea.
 
 ### Wordpress programming
 
-If you need a Theme or a Module for your site in Wordpress, just imagine what you need it to do and then bring me the idea. Be it an application for **Facebook** , **Twitter** , a Webservice, something related to **YouTube** , whatever, I CAN DO IT.
+If you need a Theme or a Module for your site in Wordpress, just imagine what you need it to do and then bring me the idea.
 
-**Web Servers**
+### Web Servers
 
-If what you need is to scale your **Server Farm**, I can help you out. I have learned the tricks of **Varnish** and **NGINX** that will allow you to increase the performance of your Sites, they will allow you to fulfill thousands of requests per second, they will make your website accessible to many more users, and for a minimum Hardware / Software cost. **I love innovation and Research**.
+Increase the performance of your Sites with **Varnish** and **NGINX**.
 
-**Linux Administration**
-
-Say **GOODBYE to Windows NT**. Enter the world of **Open Source** and collaboration. Let me show you how good the choice is for you and your company. Why pay for closed applications?
+### Linux / Solaris Administration
 
 ### Technologies
 
 *   Linux / Solaris Administration
-*   Windows on every version
+*   Windows on every version (Workstation and Server)
 
 *   Drupal 7 / 8 / 9
 *   Wordpress
@@ -75,6 +73,7 @@ Say **GOODBYE to Windows NT**. Enter the world of **Open Source** and collaborat
 
 *   Docker
 *   Qemu / KVN
+
 *   Apache SOLR
 *   MySQL / MariaDB / Percona
 *   PostgreSQL
