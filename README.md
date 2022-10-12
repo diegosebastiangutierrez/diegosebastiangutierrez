@@ -87,6 +87,10 @@ Say **GOODBYE to Windows NT**. Enter the world of **Open Source** and collaborat
 
 ## Latest jobs
 
+### ROCKSTAR CODERS (2021)
+
+Development of frontend themes for Drupal 8 & 9 websites as contractor. CI/CD.
+
 ### OUROBOROS.WORLD (2017 - CURRENT)
 
 Development, maintenance, architecture, database administration, security, interface design (Theming) of the pop culture portal [Ouroboros World](https://ouroboros.world) using Drupal 9, of which I am the owner, creator and CTO. It is the second most visited portal in the country in terms of pop culture.
