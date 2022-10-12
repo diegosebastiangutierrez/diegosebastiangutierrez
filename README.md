@@ -33,7 +33,7 @@ Later he would start working for a government entity, here in Buenos Aires **CON
 
 After that period, things got a bit aggitated and I started working as a Freelancer, until I got a position as a Drupal developer at **CMD - Grupo Clarin**, from 2010 to 2012, constantly developing in PHP5, Drupal 7, HTML5, CSS3, MYSQL.
 
-**Languages i speak**
+## Languages i Speak
 
 * Spanish (Native)
 * English (Advanced)
@@ -71,8 +71,10 @@ Say **GOODBYE to Windows NT**. Enter the world of **Open Source** and collaborat
 
 *   Symfony
 *   Laravel
+*   Git / SVN
 
 *   Docker
+*   Qemu / KVN
 *   Apache SOLR
 *   MySQL / MariaDB / Percona
 *   PostgreSQL
@@ -82,8 +84,13 @@ Say **GOODBYE to Windows NT**. Enter the world of **Open Source** and collaborat
 *   Photoshop
 *   Illustrator
 *   InDesign
+*   InkScape
+*   GIMP
 
 *   OBS Studio
+*   Ffmpeg
+
+*   Ekahau Network Design / Test / Implement
 
 ## Latest jobs
 
