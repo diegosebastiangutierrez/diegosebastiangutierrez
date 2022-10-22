@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Drupal Projects**
 
-- 🤝 I’m looking for help with **Frontend and Backend**
+- 🤝 I’m looking to help with **Frontend and Backend**
 
 - 📫 How to reach me **corazondigital@gmail.com**
 
