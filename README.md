@@ -1,7 +1,9 @@
+<hgroup>
 <h1 align="center">Hi 👋, I'm Diego Gutierrez</h1>
-<h3 align="center">A passionate PHP/Drupal Developer from Argentina</h3>
+<h2 align="center">A passionate PHP/Drupal Developer from Argentina</h2>
+</hgroup>
 
-
+<h3>Presentation letter: A Little about what i am looking for...</h3>
 
 Hello! My name is Diego Gutierrez, i am from Argentina starting a new life in Mexico. I am looking for an opportunity of working with cool people that contribute to my personal growth through conjunct collaboration and feedback. Many say that i am not the typical "nerd" stereotype that programmers represent... i am extroverted and i am not worried about not knowing something right away, but with a couple pointers i can get to the same level as seniors do. 
 I am not gonna lie to you, i am a little rusty... i moved to Drupal 8 and 9 but was too comfortable with hooks, and now i am pretty lost with the symphony layer, but with a little help i can start working faster and more efficiently in about two, three weeks. I love Javascript and CSS, i like my frontend compliant and responsive (fast in response and mobile first).
@@ -24,9 +26,8 @@ Please, let me know if we can grow together.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegosebastiangutierrez&label=Profile%20views&color=0e75b6&style=flat" alt="diegosebastiangutierrez" /> </p>
 
-- 🌱 I’m currently learning **React, Vue, Python, Laravel, Symphony, Tensorflow, OpenCV, OpenAI**
 
-- 👯 I’m looking to collaborate on **Drupal Projects**
+- 👯 I’m looking to collaborate on **Drupal Projects** **Frontend Twig Themes** **Theming** **Drupal Migrations**
 
 - 🤝 I’m looking to help with **Frontend and Backend**
 
@@ -47,6 +48,8 @@ Please, let me know if we can grow together.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosebastiangutierrez&show_icons=true&locale=en&layout=compact" alt="diegosebastiangutierrez" /></p>
 
+
+<h2>Experience and Previous Jobs</h2>
 
 ## Profile
 
