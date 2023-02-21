@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm Diego Gutierrez</h1>
 <h3 align="center">A passionate PHP/Drupal Developer from Argentina</h3>
 
+
+
+Hello! My name is Diego Gutierrez, i am from Argentina starting a new life in Mexico. I am looking for an opportunity of working with cool people that contribute to my personal growth through conjunct collaboration and feedback. Many say that i am not the typical "nerd" stereotype that programmers represent... i am extroverted and i am not worried about not knowing something right away, but with a couple pointers i can get to the same level as seniors do. 
+I am not gonna lie to you, i am a little rusty... i moved to Drupal 8 and 9 but was too comfortable with hooks, and now i am pretty lost with the symphony layer, but with a little help i can start working faster and more efficiently in about two, three weeks. I love Javascript and CSS, i like my frontend compliant and responsive (fast in response and mobile first).
+I also have knelwdge of administering AWS for media streaming websites all over Argentina (more than 50 in a year, for 7 years) and i love infrastructure. Obviously, i quit MS Windows like 9 years ago, LINUX RULES!! and as a developer it makes everything faster... and cheaper! OPENSOURCE HAS SAVED MY B**T SOOO MANY TIMES! It's amazing to read someone else's code and find a great idea to try and optimize.
+So, yes, even if they don't say so, i am a total nerd. I even created my own portal which has more than 7 thousand users a month (that come back as google shows us) and 68% comes from organic search and most of our readers are from all over the world).
+You can see my site which obviously is a Drupal 9, on a little VPS on Amazon. 
+
+https://ouroboros.world
+
+I would love critique's and opinions! No matter how hard they can be, kill me for knowledge!
+
+Oh yeah, it is a short introduction, started very professional and finishing as if we were friends. I am social, what can i do about it :D ? 
+
+I have to mention that right now i have been doing drupal 7 to 9 migrations about for 5 months and i love that kind of challenge.
+
+Please, let me know if we can grow together.
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegosebastiangutierrez&label=Profile%20views&color=0e75b6&style=flat" alt="diegosebastiangutierrez" /> </p>
 
 - 🌱 I’m currently learning **React, Vue, Python, Laravel, Symphony, Tensorflow, OpenCV, OpenAI**
