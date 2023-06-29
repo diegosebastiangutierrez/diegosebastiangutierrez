@@ -146,6 +146,13 @@ This website is a new project i am working on (end of june 2023) to be ready and
 
 https://escuelaola.com
 
+### I CAN SEE A RAINBOW - Clothing
+
+This is a special project i am currently involved since end of april 2023. It's a Shopify website that sells t-shirts and hoodies (for now until we add more products).
+This site is currently being deployed, the final one is being released in a couple of weeks. I am working as a graphic designer and involved in the theming of the site, all of the module selection for payment gateways, and improving SEO and speed.
+
+This is the "pre-release" address, until we put the site on productive mode.
+https://icanseearainbow.myshopify.com/ 
 
 ### Universidad Técnica de Costa Rica (2022)
 
