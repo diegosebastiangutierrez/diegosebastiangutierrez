@@ -140,6 +140,20 @@ Increase the performance of your Sites with **Varnish** and **NGINX**.
 
 ## Latest jobs
 
+### Escuela Ola (2023)
+
+This website is a new project i am working on (end of june 2023) to be ready and implemented productively in september 2023. The actual sites is done in wordpress, but i will migrate it to Drupal 10 adding some basic functionality, UX / UI improvements and a better landing page between all the changes i am doing. An integrating it with Discord / Twitch / Google Meet for their online courses.
+
+https://escuelaola.com
+
+
+### Universidad Técnica de Costa Rica (2022)
+
+Migration of website and library from Drupal 7 to Drupal 9. This job took a month to get completed, more than 150.000 PDF files and different type of documents were migrated from the old Drupal 7 platform, bugfixes where implemented and the portal was prepared to be migrated in the future when all the needed modules are ready for Drupal 10.
+
+https://utn.ac.cr/
+
+
 ### ROCKSTAR CODERS (2021)
 
 Development of frontend themes for Drupal 8 & 9 websites as contractor. CI/CD.
