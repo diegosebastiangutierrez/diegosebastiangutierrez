@@ -4,7 +4,7 @@
 
 Hello,
 
-I’m Diego Gutierrez, a dedicated Drupal Developer and Themer with over 15 years of experience crafting high-performance, user-focused web solutions. Since moving to Mexico in 2024, I’ve been based in Mexico City and San Luis Potosí, bringing my passion for Drupal development to new opportunities. My expertise lies in building and theming Drupal 7, 8, 9, and 10 sites, with a focus on responsive, accessible designs and seamless migrations. I’ve tackled complex projects, from high-traffic media portals to enterprise Wi-Fi network designs for clients like AT&T.
+I’m Diego Gutierrez, a dedicated Drupal Developer and Themer with over 15 years of experience crafting high-performance, user-focused web solutions. Since moving to Mexico in 2024, I’ve been based in Mexico City and San Luis Potosí, bringing my passion for Drupal development to new opportunities. My expertise lies in building and theming Drupal 7, 8, 9, 10, 11 and Drupal CMS sites, with a focus on responsive, accessible designs and seamless migrations. I’ve tackled complex projects, from high-traffic media portals to enterprise Wi-Fi network designs for clients like AT&T.
 
 I thrive in collaborative environments where I can leverage my skills in PHP, Twig theming, and frontend technologies to create impactful solutions. While I’m confident in my Drupal expertise, I’m always eager to learn—whether it’s mastering Symfony’s nuances or optimizing site performance. I’m excited to join a team that values innovation, feedback, and growth, and I look forward to contributing to your next big project.
 
