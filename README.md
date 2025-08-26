@@ -88,10 +88,9 @@ Experienced Drupal Developer and Themer with over 15 years in web development, s
 - Developed web applications using ASP, Flash, and DreamWeaver for clients like CELS and Bagó.  
 - Conducted network administration and equipment maintenance.
 
-## Education
-*(Please provide your educational background to include here.)*
 
 ## Skills
+
 - **Drupal Development**: Drupal 7/8/9/10, custom module development, Twig theming, migrations
 - **Web Development**: PHP 7.4/8.x, Symfony, Laravel, HTML5, CSS3, JavaScript, jQuery, TypeScript
 - **Frontend**: Responsive design, Bootstrap, Sass, accessibility optimization
