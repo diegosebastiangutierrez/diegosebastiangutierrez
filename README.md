@@ -40,7 +40,7 @@ Experienced Drupal Developer and Themer with over 15 years in web development, s
 - Integrated Discord, Twitch, and Google Meet for online courses, improving user engagement by 25%.
 
 ### I Can See a Rainbow – Web Developer & Graphic Designer
-**2023**  
+**2023 - 2024**  
 - Themed a Shopify e-commerce site, creating responsive designs and optimizing SEO and site speed.  
 - Designed product visuals and branding assets for a clothing line launch.
 
@@ -55,7 +55,7 @@ Experienced Drupal Developer and Themer with over 15 years in web development, s
 - Enhanced frontend performance and accessibility for client projects.
 
 ### Ouroboros World – Founder & CTO
-**2017 – Present**  
+**2017 – 2022**  
 - Built and maintained a high-traffic pop culture portal using Drupal 9, managing custom modules and theming.  
 - Achieved 7,000 monthly returning users, with 68% from organic search.
 
