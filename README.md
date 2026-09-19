@@ -30,14 +30,16 @@ Experienced Drupal Developer and Themer with over 15 years in web development, s
 ## Experience and Previous Jobs
 
 ### CBTIS 151 - Mexican Education Ministry
-**2025 - Actual**  
-- Institutional website in Drupal that manages a digital library for each career - it is an actual work in progress product
+**2025 - 2026** 
+- Tech Consultant.
+- Institutional website in Drupal that manages a digital library for each career - it is an actual work in progress product.
 - What am i using: Drupal 11, CSS3 (grid),twig, a custom module that manage shool users (activates and deactivates them when semesters start and end, creates users for each course in batch, profile managemene, book managemente)
 - I am working with Google Antigravity as a helper to code, in one day i had completed 75% of the functionality, created tests for the module.
 
 ### SitWifi – Wi-Fi Engineer
-**2024 – 2025**  
-- Performed Wi-Fi network audits and designs for AT&T, using tools like Mia by Sitwifi and Ekahau.  
+**2024 – Actual**  
+- Project Manager for the Wifi Audits Team
+- Perform Wi-Fi network audits and designs for AT&T, using tools like Mia by Sitwifi and Ekahau AI Pro.  
 - Ensured optimal coverage, performance, and compliance with high-quality connectivity standards.
 
 ### Escuela Ola – Drupal Developer
